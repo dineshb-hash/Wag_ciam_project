@@ -1,4 +1,7 @@
-fname:
-lname:
-email:
-[login or signup]
+Username:
+Email:
+Password:
+[login] 
+   or 
+[signup]
+
